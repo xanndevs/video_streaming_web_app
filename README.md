@@ -14,7 +14,10 @@
 - **Ekim ÖNCEL:** Complete site design. Selecting the technologies to be used.
 
 ## Installation
-Enter those lines to your terminal and you should be good to go.
+**ON WINDOWS** Before starting the installation, first go to this [link](https://visualstudio.microsoft.com/tr/visual-cpp-build-tools/) and install cpp build tools
+
+and then enter those lines to your terminal and you should be good to go.
+
 ```bash
 git clone https://github.com/xanndevs/web_programming_project.git
 
